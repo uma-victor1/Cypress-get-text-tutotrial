@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+}
+
+.billboard {
+  background-image: "https://res.cloudinary.com/dv9uhlkaq/image/upload/v1690414507/j1ivxe1deiru25po3rwy.jpg";
+}
